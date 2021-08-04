@@ -11,4 +11,4 @@ Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
 
 **Çözüm :** 
 
-![University Management System](https://github.com/aliihsanakcay/JavaCamp/blob/main/harmonicMean/figures/HarmonicMean.PNG) 
+![University Management System](https://github.com/aliihsanakcay/OOP/blob/main/assignmnet1/figure/universityManagementSystem.png) 
