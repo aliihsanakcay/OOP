@@ -17,4 +17,4 @@ Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bi
 
 **Çözüm :** 
 
-![Zoo Management](https://github.com/aliihsanakcay/OOP/blob/main/assignmnet1/figure/universityManagementSystem.png) 
+![Zoo Management](https://github.com/aliihsanakcay/OOP/blob/main/assignment2/figure/zooManagement.png) 
